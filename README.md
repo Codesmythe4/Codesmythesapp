@@ -1,0 +1,2 @@
+# Codesmythesapp
+Producing first app
